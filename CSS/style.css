@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: black;
+}
+
+body{
+
+    display: flex;
+    justify-content: center;
+    max-width: 1600px;
+}
+
+header{
+display: flex;
+justify-content: center;
+height: 200px;
+align-items: center;
+
+}
+header img{
+    width: 249px;
+    height: 88px;
+}
