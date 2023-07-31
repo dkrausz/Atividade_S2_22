@@ -62,10 +62,21 @@ h1 {
     color: rgb(104,104,105);
 }
 
+.usuario:hover{
+color: rgb(168,165,168);
+
+
+}
+
 .imagem-perfil {
     width: 100%;
     border-radius: 10px;
 }
+.imagem-perfil:hover{
+    border: 1px solid;
+    color: rgb(168,165,168);
+}
+
 .div-perfis{
     margin-top: 100px;
 }
@@ -78,5 +89,10 @@ h1 {
     border-radius: 10px;
    
 
+
+}
+.gerenciar-perfis:hover{
+color: black;
+background-color: white;
 
 }
